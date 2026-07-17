@@ -13,8 +13,8 @@
             "waist_yaw", "waist_roll", "waist_pitch",
             "left_shoulder_pitch", "left_shoulder_roll", "left_shoulder_yaw", "left_elbow", "left_wrist_roll", "left_wrist_pitch", "left_wrist_yaw",
             "right_shoulder_pitch", "right_shoulder_roll", "right_shoulder_yaw", "right_elbow", "right_wrist_roll", "right_wrist_pitch", "right_wrist_yaw",
-            "left_hand_pinky", "left_hand_ring", "left_hand_middle", "left_hand_index", "left_hand_thumb_bend", "left_hand_thumb_rotation", 
-            "right_hand_pinky", "right_hand_ring", "right_hand_middle", "right_hand_index", "right_hand_thumb_bend", "right_hand_thumb_rotation"
+            "right_hand_pinky", "right_hand_ring", "right_hand_middle", "right_hand_index", "right_hand_thumb_bend", "right_hand_thumb_rotation", 
+            "left_hand_pinky", "left_hand_ring", "left_hand_middle", "left_hand_index", "left_hand_thumb_bend", "left_hand_thumb_rotation"
         ]
     },
     "action": {
@@ -26,8 +26,8 @@
             "waist_yaw", "waist_roll", "waist_pitch", 
             "left_shoulder_pitch", "left_shoulder_roll", "left_shoulder_yaw", "left_elbow", "left_wrist_roll", "left_wrist_pitch", "left_wrist_yaw",
             "right_shoulder_pitch", "right_shoulder_roll", "right_shoulder_yaw", "right_elbow", "right_wrist_roll", "right_wrist_pitch", "right_wrist_yaw",
-            "left_hand_pinky", "left_hand_ring", "left_hand_middle", "left_hand_index", "left_hand_thumb_bend", "left_hand_thumb_rotation",
-            "right_hand_pinky", "right_hand_ring", "right_hand_middle", "right_hand_index", "right_hand_thumb_bend", "right_hand_thumb_rotation"
+            "right_hand_pinky", "right_hand_ring", "right_hand_middle", "right_hand_index", "right_hand_thumb_bend", "right_hand_thumb_rotation",
+            "left_hand_pinky", "left_hand_ring", "left_hand_middle", "left_hand_index", "left_hand_thumb_bend", "left_hand_thumb_rotation"
         ]
     }
 }

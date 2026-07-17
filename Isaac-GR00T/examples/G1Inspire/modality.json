@@ -20,11 +20,11 @@
             "start": 22,
             "end": 29
         },
-        "left_hand": {
+        "right_hand": {
             "start": 29, 
             "end": 35
         },
-        "right_hand": {
+        "left_hand": {
             "start": 35,
             "end": 41
         }
@@ -53,11 +53,11 @@
             "start": 14,
             "end": 21
         },
-        "left_hand": {
+        "right_hand": {
             "start": 21, 
             "end": 27
         },
-        "right_hand": {
+        "left_hand": {
             "start": 27,
             "end": 33   
         }
